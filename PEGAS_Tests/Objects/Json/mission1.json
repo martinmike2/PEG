@@ -1,0 +1,9 @@
+{
+  "Payload": 100,
+  "Apoapsis": 400,
+  "Periapsis": 400,
+  "Altitude": 400,
+  "Inclination": 98.7,
+  "Lan": 0,
+  "Direction": "nearest"
+}
